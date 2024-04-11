@@ -3,13 +3,13 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Program bar</title>
+    <title>Omer Wu bar</title>
     <link>http://example.com/</link>
     
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>This is a open source software collection website</description>
-    <pubDate>Mon, 08 Apr 2024 09:39:35 GMT</pubDate>
+    <pubDate>Thu, 11 Apr 2024 10:11:42 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -59,12 +59,12 @@
         
         
       <description>&lt;p&gt;欢迎来到Program bar，这是您获取最新科技新闻、富有洞察力的编码教程和突破性研究论文的首选中心。深入探索创新与教育相结合的世界，在这里我们揭开编码的复杂性，探索前沿技术，剖析最具影响力的研究成果。加入我们，踏上知识繁荣、激发好奇心、未来展现在您眼前的旅程&lt;/p&gt;
-&lt;</description>
+</description>
         
       
       
       
-      <content:encoded><![CDATA[<p>欢迎来到Program bar，这是您获取最新科技新闻、富有洞察力的编码教程和突破性研究论文的首选中心。深入探索创新与教育相结合的世界，在这里我们揭开编码的复杂性，探索前沿技术，剖析最具影响力的研究成果。加入我们，踏上知识繁荣、激发好奇心、未来展现在您眼前的旅程</p><p><img src="/first_page.png" alt="Example Image"></p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>欢迎来到Program bar，这是您获取最新科技新闻、富有洞察力的编码教程和突破性研究论文的首选中心。深入探索创新与教育相结合的世界，在这里我们揭开编码的复杂性，探索前沿技术，剖析最具影响力的研究成果。加入我们，踏上知识繁荣、激发好奇心、未来展现在您眼前的旅程</p>]]></content:encoded>
       
       
       
