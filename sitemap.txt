@@ -1,7 +1,8 @@
-http://example.com/2024/04/11/itransformer_gpt/
-http://example.com/2024/04/07/Monte_Carlo_Simulation/
-http://example.com/2024/04/08/python_win_rate/
-http://example.com/2024/04/03/hello-world/
+http://example.com/article/0.html
+http://example.com/article/36617.html
+http://example.com/article/43309.html
+http://example.com/article/48398.html
+http://example.com/article/28184.html
 http://example.com/resources/index.html
 http://example.com/about/index.html
 http://example.com/tags/index.html
